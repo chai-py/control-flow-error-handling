@@ -2,7 +2,7 @@
 ## Challenge 1 - API Data Fetching
 
 ### Challenge Description
-In this project, we fetch stock data from the Alpha Vantage API using node-fetch, process the data to show the most recent stock closing prices, and handle any errors.
+In this project, I fetch stock data from the Alpha Vantage API using node-fetch, process the data to show the most recent stock closing prices, and handle any errors.
 
 ### Problem Solving Notes
 1. _Fetching Data:_
